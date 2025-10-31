@@ -1,0 +1,243 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+
+
+}
+
+
+.met {
+    max-width: 1500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.glux {
+    width: 1500px;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+}
+
+.alo {
+    width: 65px;
+    height: 65px;
+    border-radius: 40px;
+}
+
+.ara {
+    width: 1100px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-between;
+
+
+}
+
+.cucak {
+    width: 350px;
+    height: 20px;
+    display: flex;
+    
+    justify-content: space-around;
+
+}
+
+.vern {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    background-color: gray;
+}
+
+a {
+    list-style: none;
+    color: #fff;
+    margin-right: 20px;
+}
+
+.mej {
+    width: 100%;
+    height: 595px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+    background-image: url(https://static.ucraft.net/fs/ucraft/userFiles/art365/uploaded-media/orbeli4.jpg);
+    background-size: cover;
+}
+
+.nkar2 {
+    width: 300px;
+    height: 400px;
+}
+
+.textt {
+    width: 400px;
+    height: 350px;
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    font-size: 20px;
+    background: rgba(197, 197, 197, 0.2);
+    border-radius: 10px;
+
+}
+
+.nkar>img {
+    border-radius: 10px;
+}
+
+.kens {
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    font-size: 20px;
+    background-color: gray;
+}
+
+.pash {
+    height: 400px;
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    font-size: 20px;
+    background-color: gray;
+
+}
+
+.kens>p {
+    margin-top: 20px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.pash>p {
+    margin-top: 20px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.ynt {
+    width: 100%;
+    height: 350px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: center;
+    overflow: hidden;
+    background-color: gray;
+}
+
+.ynt>img {
+    width: 300px;
+    height: 300px;
+    border-radius: 30px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.abo{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.abo>h3{
+    margin-top :5px ;
+    margin-bottom: 10px;
+}
+.alooo{
+    max-width: 1550px;
+    margin-left: 10px;
+    font-size: 20px;
+    
+}
+.gluxx{
+       width: 1500px;
+       height: 300px;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.aloo{
+    width: 120px;
+    height:120px;
+    border-radius: 40px;
+}
+.cucakk{
+     width: 320px;
+    
+    display: flex;
+    flex-direction: column;
+}
+.cucakk>p{
+    color: #fff;
+    margin-bottom: 10px;
+}
+.cucakk>a{
+ margin-bottom: 10px;
+}
+.hxum{
+    display: flex;
+    flex-direction: column;
+}
+.hxum>a{
+    margin-top: 10px;
+    text-align: center;
+    color: black;
+}
+.heyy{
+   margin: 50px;
+    width: 1000px;
+    height: 300px;
+    display: flex;
+    justify-content: space-between;
+}
+.heyy>div>img{
+    width: 250px;
+    height: 250px;
+    margin-top: 20px;
+    border-radius: 20px;
+}
+.heyy>div>h1{
+   text-align: center;
+}
+.hambal{
+    width: 100%;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+}
+.hambal>h1{
+    text-align: center;
+    margin-bottom: 50px;
+}
+.esh>img{
+    width: 300px;
+    height: 400px;
+    border-radius: 50px;
+}
+.esh{
+    width: 100%;
+    height: 500px;
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 250px;
+}
+.gluxxx{
+       width: 1500px;
+       height: 300px;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 300px;
+}
